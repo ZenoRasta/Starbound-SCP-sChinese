@@ -1,7 +1,5 @@
 ![Super City Pack 简体中文汉化包](https://i.imgur.com/glpQ6w0.png)
 
-# Super City Pack 简体中文汉化包
-
 *This is a Simplified Chinese patch made for Super City Pack*
 
 这是一个为 **超级城市** 制作的简体中文汉化包。
