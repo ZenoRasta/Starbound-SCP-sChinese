@@ -1,0 +1,122 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "value": "需要帮忙吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "value": "今天想买点啥？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
+    "value": "需要花人帮忙吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
+    "value": "今天花人能帮你点啥？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/0",
+    "value": "愉快。需要帮忙吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/1",
+    "value": "愉快。今天想买点啥？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "value": "感谢光临。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+    "value": "欢迎再来！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2",
+    "value": "下次见！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
+    "value": "感谢光临。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/1",
+    "value": "花人希望你很快再来。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/2",
+    "value": "花人很高兴，希望你再来。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/0",
+    "value": "愉快。感谢光临。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/1",
+    "value": "愉快。欢迎再来！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/2",
+    "value": "愉快。下次见！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+    "value": "快进来看看我们都有什么！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/follow/floran/default/0",
+    "value": "快进来看看花人都有什么！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/follow/glitch/default/0",
+    "value": "激动。快进来看看我们都有什么！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "value": "欢迎来到矿工公会！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/floran/default/0",
+    "value": "花人欢迎你加入矿工公会！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/glitch/default/0",
+    "value": "激动。欢迎来到矿工公会！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+    "value": "欢迎来到矿工公会！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/tout/floran/default/0",
+    "value": "花人欢迎你加入矿工公会！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/tout/glitch/default/0",
+    "value": "激动。欢迎来到矿工公会！"
+  }
+] 

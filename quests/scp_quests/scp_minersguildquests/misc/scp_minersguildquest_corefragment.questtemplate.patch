@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;核心碎片速递" },
+  { "op": "replace", "path": "/text", "value": "^orange;核心碎片^white;可是做爆破工具的好材料。每^orange;10 个核心碎片^white;，我们就付你^yellow;500 像素^white;。怎么样，要不要来点？" },
+  { "op": "replace", "path": "/completionText", "value": "干得漂亮！多带点来我们还收！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

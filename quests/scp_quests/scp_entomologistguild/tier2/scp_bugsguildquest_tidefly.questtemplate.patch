@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;捕捉潮汐飞虫" },
+  { "op": "replace", "path": "/text", "value": "我们正在对^orange;潮汐飞虫^white;进行生态研究。这种特殊的昆虫生活在^cyan;海洋行星^white;上。你能帮我们捕捉一只吗？任务完成后将获得^yellow;6000像素^white;的奖励。研究结束后，这只昆虫可以归你保管。" },
+  { "op": "replace", "path": "/completionText", "value": "多谢你的帮助！它身上的花纹就像涌动的海浪，真是迷人！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人已经先送来标本了吗？" }
+] 

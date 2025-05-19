@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;艾奇厄斯水晶速递" },
+  { "op": "replace", "path": "/text", "value": "最近有订单要^pink;艾奇厄斯水晶燃料^white;。可惜没人愿意跑月球收材料。你能帮忙带^pink;100 个艾奇厄斯水晶^white;回来吗？事成之后付你^yellow;8000 像素^white;。" },
+  { "op": "replace", "path": "/completionText", "value": "你回来了？没碰上什么吓人的鬼东西吧！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

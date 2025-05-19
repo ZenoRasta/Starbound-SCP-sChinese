@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;菠萝速递" },
+  { "op": "replace", "path": "/text", "value": "现需 ^orange;40 个菠萝^white;，如能按时交付，将支付双倍市场价——^yellow;12800 像素^white;。请协助完成本次任务。" },
+  { "op": "replace", "path": "/completionText", "value": "感谢您的协助，客户已收到货物。请收下报酬。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "任务已被他人完成，感谢您的关注。" }
+] 

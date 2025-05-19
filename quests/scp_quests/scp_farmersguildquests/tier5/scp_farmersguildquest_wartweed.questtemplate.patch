@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;疣草速递" },
+  { "op": "replace", "path": "/text", "value": "又是 ^orange;40 根疣草^white;，这玩意谁要啊？双倍市场价——^yellow;11200 像素^white;，你要是真有空就送来吧。" },
+  { "op": "replace", "path": "/completionText", "value": "唉，真有人送来了……行吧，钱给你，快走快走。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先了，看来还有人比你更闲。" }
+] 

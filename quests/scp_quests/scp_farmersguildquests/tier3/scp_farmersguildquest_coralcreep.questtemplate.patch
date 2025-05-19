@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;珊瑚藤速递" },
+  { "op": "replace", "path": "/text", "value": "听说你能搞到 ^orange;40 根珊瑚藤^white;？双倍市场价——^yellow;8000 像素^white;，这可是稀罕货，能不能帮我悄悄送来？" },
+  { "op": "replace", "path": "/completionText", "value": "干得漂亮，低调点收下奖励，别声张！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "唉，被别人捷足先登了，秘密任务失败。" }
+] 

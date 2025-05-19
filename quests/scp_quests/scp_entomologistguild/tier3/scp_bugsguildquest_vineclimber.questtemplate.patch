@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;藤壁攀虫研究项目" },
+  { "op": "replace", "path": "/text", "value": "进化生物学部门需要^orange;藤壁攀虫^white;标本用于形态特征分析。该物种主要生活在^cyan;丛林行星^white;的中层植被区。请提供一只活体样本，研究经费补助为^yellow;8000像素^white;。分析完成后，标本可按规定归还。" },
+  { "op": "replace", "path": "/completionText", "value": "此标本的攀爬附肢保存状态极佳，肌肉组织和感应器官完整。这对于我们的生物力学研究具有重要价值。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "该项目所需样本已收集完毕，感谢您的协助意愿。" }
+] 

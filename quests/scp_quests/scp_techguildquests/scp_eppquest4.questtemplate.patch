@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^orange;获取降温环境防护背包" },
+  { "op": "replace", "path": "/text", "value": "最后一样要处理的是^cyan;降温EPP^white;。和之前的EPP一样，戴上能免疫致命高温。还是^yellow;12000像素^white;，要不要带走？" },
+  { "op": "replace", "path": "/completionText", "value": "EPP全都卖光啦。感谢你的惠顾！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先买走了吗？" }
+] 

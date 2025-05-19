@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;人类骨架挖掘" },
+  { "op": "replace", "path": "/text", "value": "我们想复制一具^orange;人类骨架^white;。如果你能找到^orange;人类头骨^white;、^orange;人类躯干^white;和^orange;人类腿骨^white;，带来就付你^yellow;14000 像素^white;！骨头你自己留着，我们只要复制下。^cyan;（如果你把这些骨头放进展示柜，任务就无法完成）^white;" },
+  { "op": "replace", "path": "/completionText", "value": "你全都找齐啦！人类的骨头其实也挺有意思的~" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

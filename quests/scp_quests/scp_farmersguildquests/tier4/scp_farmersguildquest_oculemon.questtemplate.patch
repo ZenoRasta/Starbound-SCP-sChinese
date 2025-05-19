@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;眼柠檬速递" },
+  { "op": "replace", "path": "/text", "value": "^orange;40 个眼柠檬^white;，新鲜采摘，双倍市场价——^yellow;16000 像素^white;，能不能帮个忙？" },
+  { "op": "replace", "path": "/completionText", "value": "太棒了！客户都说眼柠檬很新鲜，这是你的奖金！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先了，下次早点来啊！" }
+] 

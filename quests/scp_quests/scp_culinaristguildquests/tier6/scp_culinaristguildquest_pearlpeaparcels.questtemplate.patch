@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;珍珠豆包子" },
+  { "op": "replace", "path": "/text", "value": "厨子不够用了，得找人做^orange;20份珍珠豆包^white;。你来帮忙的话，给你双倍薪水，^yellow;9000像素^white;，怎么样？" },
+  { "op": "replace", "path": "/completionText", "value": "包子来啦！热腾腾的，真想马上尝一个！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "嗯？难道已经有人捷足先登了？" }
+] 

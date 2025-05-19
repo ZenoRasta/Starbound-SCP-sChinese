@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;异星飞虫研究计划" },
+  { "op": "replace", "path": "/text", "value": "星际生物多样性研究所需要采集^orange;异星飞虫^white;标本。该稀有物种主要分布于^cyan;异星行星^white;的特定区域。请获取一只完整标本，研究补助金额为^yellow;8000像素^white;。研究分析后，标本将按制度规定归还提供者。" },
+  { "op": "replace", "path": "/completionText", "value": "非常感谢。此标本的翅膀结构与地球昆虫有显著差异，将为我们的进化生物学研究提供重要参考数据。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "研究所已获取必要样本，此项任务已完成。感谢您的关注。" }
+] 

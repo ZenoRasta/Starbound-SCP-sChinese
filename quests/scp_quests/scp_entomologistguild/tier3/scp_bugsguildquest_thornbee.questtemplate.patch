@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;棘刺蜂标本采集" },
+  { "op": "replace", "path": "/text", "value": "本研究项目需获取^orange;棘刺蜂^white;活体标本。该物种主要分布于^cyan;荒漠行星^white;的特定区域。请协助捕获一只完整样本，任务酬金为^yellow;8000像素^white;。研究数据采集完毕后，标本可归还给采集者保存。" },
+  { "op": "replace", "path": "/completionText", "value": "此标本状态良好，其防御机制的进化特征极具研究价值。感谢您的专业采集工作。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "此项标本采集任务已完成，请关注其他研究项目。" }
+] 

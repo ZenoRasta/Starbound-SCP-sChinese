@@ -1,0 +1,4 @@
+[
+  { "op": "replace", "path": "/description", "value": "一块非凡的生鱼片……滑溜溜的。" },
+  { "op": "replace", "path": "/shortdescription", "value": "非凡生鱼片" }
+] 

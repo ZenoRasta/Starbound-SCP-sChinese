@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;收集灼热核心" },
+  { "op": "replace", "path": "/text", "value": "我需要一些^orange;灼热核心^white;做实验。能帮我收集^orange;10 份灼热核心^white;吗？报酬是^yellow;4000 像素^white;，怎么样？" },
+  { "op": "replace", "path": "/completionText", "value": "这些灼热核心很有用，谢谢你！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

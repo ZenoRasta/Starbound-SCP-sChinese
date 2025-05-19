@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;寻找红翼虫" },
+  { "op": "replace", "path": "/text", "value": "我们正在收集^orange;红翼虫^white;标本。这种昆虫通常栖息在^cyan;热带行星^white;上。你能帮我们捕捉一只吗？完成任务将获得^yellow;4000像素^white;的报酬。记录完成后，这只昆虫你可以自己保管。" },
+  { "op": "replace", "path": "/completionText", "value": "真是完美的标本！它的翅膀颜色如此鲜艳！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人已经提交了标本吗？" }
+] 

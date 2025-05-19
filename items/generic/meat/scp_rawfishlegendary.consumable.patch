@@ -1,0 +1,4 @@
+[
+  { "op": "replace", "path": "/description", "value": "一块传说级的生鱼片……滑溜溜的。" },
+  { "op": "replace", "path": "/shortdescription", "value": "传说生鱼片" }
+] 

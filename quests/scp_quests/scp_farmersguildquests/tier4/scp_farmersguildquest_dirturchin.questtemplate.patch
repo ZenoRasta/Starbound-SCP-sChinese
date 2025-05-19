@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;泥海胆速递" },
+  { "op": "replace", "path": "/text", "value": "^orange;40 个泥海胆^white;，新鲜直供，双倍市场价——^yellow;12000 像素^white;，能不能帮个忙？" },
+  { "op": "replace", "path": "/completionText", "value": "感谢你的帮助，客户们都很满意！这是你的奖金！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先了，下次早点来啊！" }
+] 

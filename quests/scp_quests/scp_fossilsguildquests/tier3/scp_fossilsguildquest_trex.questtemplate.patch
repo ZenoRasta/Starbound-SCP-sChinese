@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;霸王龙骨架挖掘" },
+  { "op": "replace", "path": "/text", "value": "我们想复制一具^orange;霸王龙^white;的骨架。如果你能找到^orange;霸王龙头骨^white;、^orange;霸王龙躯干^white;、^orange;霸王龙腿骨^white;、^orange;霸王龙上尾^white;和^orange;霸王龙下尾^white;，带来就付你^yellow;21000 像素^white;！骨头你自己留着，我们只要复制下。^cyan;（如果你把这些骨头放进展示柜，任务就无法完成）^white;" },
+  { "op": "replace", "path": "/completionText", "value": "你全都找齐啦！小时候谁没幻想过霸王龙复活呢？" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

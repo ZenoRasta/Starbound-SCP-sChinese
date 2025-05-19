@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;香辣排骨" },
+  { "op": "replace", "path": "/text", "value": "厨房人手不够，急需^orange;20 份麻辣排骨^white;！你要是能来，双倍酬劳——^yellow;16600 像素^white;，够意思吧？" },
+  { "op": "replace", "path": "/completionText", "value": "排骨到了，这辣劲儿，江湖儿女都爱！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "哎，被人抢先了，下次快点！" }
+] 

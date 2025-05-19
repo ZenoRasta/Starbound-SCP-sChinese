@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;终极果汁" },
+  { "op": "replace", "path": "/text", "value": "厨房这边快炸了，急需^orange;20 杯终极果汁^white;救场！要是你能帮忙，直接双倍报酬——^yellow;48000 像素^white;，老板都不眨眼！" },
+  { "op": "replace", "path": "/completionText", "value": "果汁送到啦！这颜色太炫了，看着都提神！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "哇，居然有人比你还快？" }
+] 

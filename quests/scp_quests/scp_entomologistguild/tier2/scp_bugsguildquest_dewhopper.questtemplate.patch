@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;寻找露珠跳虫" },
+  { "op": "replace", "path": "/text", "value": "公会需要收集^orange;露珠跳虫^white;的标本进行研究。这种昆虫主要栖息在^cyan;干燥草原行星^white;上。你能为我们捕捉一只吗？成功完成后将获得^yellow;6000像素^white;的酬劳。研究结束后，这只昆虫可以归你所有。" },
+  { "op": "replace", "path": "/completionText", "value": "太棒了！它身上的露珠反光效果真是迷人！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "已经有人提交过标本了吗？" }
+] 

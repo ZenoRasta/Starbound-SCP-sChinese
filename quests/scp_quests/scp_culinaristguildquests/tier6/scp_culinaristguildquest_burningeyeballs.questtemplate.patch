@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;燃烧眼球" },
+  { "op": "replace", "path": "/text", "value": "厨房缺人，急需^orange;20 份燃烧眼球餐^white;！你要是能来，双倍报酬——^yellow;20600 像素^white;，敢不敢挑战？" },
+  { "op": "replace", "path": "/completionText", "value": "眼球送到了，这颜色，辣眼睛都不够形容！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "啊？有人先送来了？" }
+] 

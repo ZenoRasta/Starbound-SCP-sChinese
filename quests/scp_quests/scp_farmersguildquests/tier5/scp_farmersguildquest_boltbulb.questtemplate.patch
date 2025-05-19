@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;闪电球速递" },
+  { "op": "replace", "path": "/text", "value": "需要 ^orange;40 个闪电球^white;，实验急用。双倍市场价——^yellow;9600 像素^white;，快点送来，数据等着分析！" },
+  { "op": "replace", "path": "/completionText", "value": "数据收集完成，奖励已发放，合作愉快！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先了，实验延期，唉。" }
+] 

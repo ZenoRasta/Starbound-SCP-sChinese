@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;钻石速递" },
+  { "op": "replace", "path": "/text", "value": "我们急需^cyan;5 颗钻石^white;。只要你能送来，全部按原价——^yellow;6000 像素^white;收购。" },
+  { "op": "replace", "path": "/completionText", "value": "这是你的报酬，合作愉快！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

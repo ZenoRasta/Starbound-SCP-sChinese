@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;采集气体巨虫标本" },
+  { "op": "replace", "path": "/text", "value": "本研究所需要获取^orange;气体巨虫^white;标本用于分类研究。该物种主要栖息于^cyan;有毒行星^white;环境中。请协助采集一份完整标本，成功完成任务后将获得^yellow;8000像素^white;的酬金。研究记录完成后，标本可归还给采集者。" },
+  { "op": "replace", "path": "/completionText", "value": "标本形态保存完好，气囊结构尤为珍贵。这将极大推进我们的研究工作。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "任务已被其他研究员完成，感谢您的关注。" }
+] 

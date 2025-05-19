@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^orange;获取呼吸环境防护背包" },
+  { "op": "replace", "path": "/text", "value": "你好啊，旅者！我这正好有几件^orange;环境防护背包^white;要处理掉。你想买一个^orange;呼吸EPP^white;吗？戴上它，在没有空气的地方也能呼吸哦。只要^yellow;4000像素^white;，怎么样，要不要来一个？" },
+  { "op": "replace", "path": "/completionText", "value": "给你啦。如果你还想买点别的，随时找我……" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先买走了吗？" }
+] 

@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;霓虹瓜速递" },
+  { "op": "replace", "path": "/text", "value": "我们需要送 ^orange;40 个霓虹瓜^white;。只要你能全数交付，我们愿意支付双倍市场价——^yellow;22400 像素^white;！能帮帮忙吗？" },
+  { "op": "replace", "path": "/completionText", "value": "感谢你的帮助，客户终于能收到货了。这是承诺的报酬，辛苦了！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先送到了吗？" }
+] 

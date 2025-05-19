@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;自动番茄速递" },
+  { "op": "replace", "path": "/text", "value": "^orange;40 个自动番茄^white;，要快。双倍市场价——^yellow;6400 像素^white;，别墨迹，能不能行？" },
+  { "op": "replace", "path": "/completionText", "value": "行吧，终于送到了。这是钱，拿走吧。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人比你快，没办法。" }
+] 

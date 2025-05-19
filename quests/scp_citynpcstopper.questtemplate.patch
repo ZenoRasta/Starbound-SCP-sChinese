@@ -1,0 +1,4 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;请勿完成" },
+  { "op": "replace", "path": "/text", "value": "这个任务会使 NPC 停止移动。请不要完成此任务。" }
+] 

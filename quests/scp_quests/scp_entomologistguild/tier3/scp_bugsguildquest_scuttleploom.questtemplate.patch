@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;狭腹织虫标本采集" },
+  { "op": "replace", "path": "/text", "value": "分类学研究所需要采集^orange;狭腹织虫^white;标本。该物种常见于^cyan;荒漠行星^white;的特定生态区域。请提供一只保存完好的样本用于基因测序工作，报酬为^yellow;8000像素^white;。研究过程不会损伤标本，完成后可归还。" },
+  { "op": "replace", "path": "/completionText", "value": "此标本形态特征保存完整，织丝器官结构尤为珍贵。这将为我们的织丝蛋白研究提供重要数据。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "所需研究材料已获取，感谢您对科研工作的支持。" }
+] 

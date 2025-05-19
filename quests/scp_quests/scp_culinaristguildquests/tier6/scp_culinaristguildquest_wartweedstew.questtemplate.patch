@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;疣草炖煮" },
+  { "op": "replace", "path": "/text", "value": "缺厨子！急需有人做^orange;20份疣草炖菜^white;。你肯搭把手的话，给你双倍报酬，整整^yellow;14000像素^white;！" },
+  { "op": "replace", "path": "/completionText", "value": "炖菜送到啦！闻着就让人流口水，真香！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "啊哦，别人已经送来了？" }
+] 

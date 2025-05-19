@@ -1,0 +1,4 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;请勿完成" },
+  { "op": "replace", "path": "/text", "value": "这个任务会阻止 scp_citynpcstopper 出现。请不要完成此任务。" }
+] 

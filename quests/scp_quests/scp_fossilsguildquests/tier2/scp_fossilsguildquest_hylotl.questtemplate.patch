@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;海傲骨架挖掘" },
+  { "op": "replace", "path": "/text", "value": "我们计划复制一具^orange;海傲骨架^white;。如果你能找到^orange;海傲头骨^white;、^orange;海傲躯干^white;和^orange;海傲腿骨^white;，带来就付你^yellow;14000 像素^white;。骨头你自己留着，我们只要复制下。^cyan;（如果你把这些骨头放进展示柜，任务就无法完成）^white;" },
+  { "op": "replace", "path": "/completionText", "value": "你全都找齐啦！接下来就研究怎么让它复活……" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

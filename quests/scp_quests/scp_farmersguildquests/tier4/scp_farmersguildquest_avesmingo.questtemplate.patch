@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;鸟芒果速递" },
+  { "op": "replace", "path": "/text", "value": "亲爱的，能不能帮我送 ^orange;40 个鸟芒果^white;？双倍市场价——^yellow;12000 像素^white;，我会很感激你的哦~" },
+  { "op": "replace", "path": "/completionText", "value": "谢谢你啦，客户们都很开心呢。这是你的奖励，记得常来玩呀！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先了，没关系，下次再来帮我吧~" }
+] 

@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;寻找鹿蝇" },
+  { "op": "replace", "path": "/text", "value": "我们需要研究^orange;鹿蝇^white;标本。它们通常在^cyan;花园行星^white;上发现。能帮我们捉一只来吗？完成后会获得^yellow;4000像素^white;的报酬。研究后，这只虫子你可以带走。" },
+  { "op": "replace", "path": "/completionText", "value": "太感谢了！这个小家伙看起来很健康。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "已经有人帮我们收集过了吗？" }
+] 

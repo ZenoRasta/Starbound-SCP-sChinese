@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;弗洛朗骨架挖掘" },
+  { "op": "replace", "path": "/text", "value": "我们一直想做一个^orange;弗洛朗骨架^white;的复制品。如果你能找到^orange;弗洛朗头骨^white;、^orange;弗洛朗躯干^white;和^orange;弗洛朗腿骨^white;，带来就付你^yellow;14000 像素^white;！骨头你自己留着，我们只要复制下。^cyan;（如果你把这些骨头放进展示柜，任务就无法完成）^white;" },
+  { "op": "replace", "path": "/completionText", "value": "你全都找齐啦！接下来就研究怎么让它复活……" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

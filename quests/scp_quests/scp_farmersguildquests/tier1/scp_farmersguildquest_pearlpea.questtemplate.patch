@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;珍珠豆速递" },
+  { "op": "replace", "path": "/text", "value": "我们急需 ^orange;40 根珍珠豆^white;。只要你能全数交付，我们愿意支付双倍市场价——^yellow;3200 像素^white;！大佬，能帮个忙不？" },
+  { "op": "replace", "path": "/completionText", "value": "感谢老板出手相助，客户这下可满意了。这是说好的报酬，拿好不谢！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有其他人抢先交付了吗？" }
+] 

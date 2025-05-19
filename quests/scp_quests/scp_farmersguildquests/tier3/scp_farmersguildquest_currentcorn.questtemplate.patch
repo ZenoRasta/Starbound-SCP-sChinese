@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;电玉米速递" },
+  { "op": "replace", "path": "/text", "value": "^orange;40 根电玉米^white;，这种货可不常见，双倍市场价——^yellow;6400 像素^white;！敢不敢来挑战一下？" },
+  { "op": "replace", "path": "/completionText", "value": "不错嘛，连电玉米都搞定了，佩服！奖金拿好！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "这活儿被别人抢了，下次再来试试吧！" }
+] 

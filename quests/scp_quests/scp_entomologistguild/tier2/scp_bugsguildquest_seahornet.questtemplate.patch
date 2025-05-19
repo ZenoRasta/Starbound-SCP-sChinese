@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;寻找海马黄蜂" },
+  { "op": "replace", "path": "/text", "value": "我们需要研究^orange;海马黄蜂^white;的生活习性。这种奇特的昆虫栖息在^cyan;海洋行星^white;上。你能帮我们捕捉一只吗？完成任务将获得^yellow;6000像素^white;的报酬。研究结束后，这只昆虫可以归你所有。" },
+  { "op": "replace", "path": "/completionText", "value": "这只海马黄蜂保存得很好！它的结构真是令人着迷。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人已经完成任务了吗？" }
+] 

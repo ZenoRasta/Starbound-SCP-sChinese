@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;萤光虫的奥秘" },
+  { "op": "replace", "path": "/text", "value": "亲爱的科研伙伴，我们的生物发光机制研究团队对^orange;萤光虫^white;的发光原理充满好奇。这种神奇的生物生活在^red;火山行星^white;的夜间熔岩区。若你能采集一只完整标本，我们将提供^yellow;10000像素^white;的学术奖励。研究结束后，这位小小的光之精灵将继续陪伴你。" },
+  { "op": "replace", "path": "/completionText", "value": "太神奇了！它体内的发光细胞排列方式独特，为我们揭示了生物发光的新机制。这一发现对我们的生物照明技术研究具有重要意义。感谢你为科学带来的这份光明！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "亲爱的朋友，很遗憾这项任务已由其他研究员完成。不过你的热情让我们充满希望，期待下次合作。" }
+] 
