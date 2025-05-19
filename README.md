@@ -6,6 +6,8 @@
 
 这是一个为 **超级城市** 制作的简体中文汉化包。
 
+[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3483406633)
+
 本汉化包只是基于 Super City Pack 替换了一些对话文本，所以理论上来讲不会有任何兼容性问题。即使我没有及时跟进原模组更新，也只会导致部分文本显示为未汉化状态的英语。
 
 图中的中文字体是我的另外一个作品：[天王星像素简中字体](https://github.com/ZenoRasta/Starbound-Uranus-Font-Mod)
