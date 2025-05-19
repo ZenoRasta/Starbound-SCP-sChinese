@@ -1,4 +1,4 @@
-![Super City Pack 简体中文汉化包](https://i.imgur.com/PLCqjOm.png)
+![Super City Pack 简体中文汉化包](https://i.imgur.com/glpQ6w0.png)
 
 # Super City Pack 简体中文汉化包
 
