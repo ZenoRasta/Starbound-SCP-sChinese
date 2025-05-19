@@ -8,7 +8,7 @@
 
 本汉化包只是基于 Super City Pack 替换了一些对话文本，所以理论上来讲不会有任何兼容性问题。即使我没有及时跟进原模组更新，也只会导致部分文本显示为未汉化状态的英语。
 
-图中的中文字体是我的另外一个作品：[天王星像素简中字体](https://github.com/ZenoRasta/Starbound-Uranus-Font-Mod)
+欢迎来看看我的另外一个Starbound Mod项目：[天王星像素简中字体](https://github.com/ZenoRasta/Starbound-Uranus-Font-Mod)
 
 ---
 
