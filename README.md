@@ -1,8 +1,8 @@
 ![Super City Pack 简体中文汉化包](https://i.imgur.com/glpQ6w0.png)
 
-*This is a Simplified Chinese patch made for Super City Pack*
+*This is a Simplified Chinese patch made for Starbound Super City Pack mod*
 
-这是一个为 **超级城市** 制作的简体中文汉化包。
+这是一个为Starbound超级城市模组制作的简体中文汉化包。
 
 [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3483406633)
 
