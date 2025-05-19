@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;寻找日跃虫" },
+  { "op": "replace", "path": "/text", "value": "公会正准备研究^orange;日跃虫^white;的特性。这种罕见的昆虫主要生活在^cyan;沙漠行星^white;上。你愿意帮我们捕捉一只吗？完成后会得到^yellow;4000像素^white;的酬劳。研究结束后，这只昆虫可以归你所有。" },
+  { "op": "replace", "path": "/completionText", "value": "啊！多么优雅的生物啊！它在阳光下的跃动真是迷人。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有别人已经带回了标本吗？" }
+] 

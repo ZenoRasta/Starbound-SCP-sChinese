@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;剑齿虎化石挖掘" },
+  { "op": "replace", "path": "/text", "value": "我们想复制一个^orange;剑齿虎头骨^white;。只要你带来，我们就付你^yellow;7000 像素^white;！化石你自己留着，我们只要复制下。^cyan;（如果你把化石放进展示柜，任务就无法完成）^white;" },
+  { "op": "replace", "path": "/completionText", "value": "你找到化石啦！这家伙当年肯定很威风……" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

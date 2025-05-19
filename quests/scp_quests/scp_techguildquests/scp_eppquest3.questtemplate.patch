@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^orange;获取加热环境防护背包" },
+  { "op": "replace", "path": "/text", "value": "下一个要卖的是^orange;加热EPP^white;。和之前的EPP一样，戴上能免疫致命严寒。只要^yellow;12000像素^white;，要不要来一个？" },
+  { "op": "replace", "path": "/completionText", "value": "给你啦。如果你还想买点别的，还剩最后一样了……" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先买走了吗？" }
+] 

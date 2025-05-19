@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;普通鱼钓获" },
+  { "op": "replace", "path": "/text", "value": "钓鱼这门手艺可不能失传啊！要是你能钓到一条普通鱼，把^orange;生鱼^white;带来，^yellow;1000 像素^white;就是你的。" },
+  { "op": "replace", "path": "/completionText", "value": "不错的收获，这是你的报酬。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

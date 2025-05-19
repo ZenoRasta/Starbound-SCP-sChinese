@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;霓虹瓜果酱" },
+  { "op": "replace", "path": "/text", "value": "人手不够啦，急需有人做^orange;20罐霓虹瓜酱^white;。你来帮忙的话，双倍工钱，^yellow;18600像素^white;归你！" },
+  { "op": "replace", "path": "/completionText", "value": "果酱送来了！这颜色可真漂亮，一定好吃！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "啊？已经有人送过来了？" }
+] 

@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;臭甲虫样本收集" },
+  { "op": "replace", "path": "/text", "value": "研究院昆虫学部门正在进行^orange;臭甲虫^white;的防御机制研究。该物种主要分布于^cyan;沼泽行星^white;的腐殖质区域。需要采集一只活体样本，完成任务后将支付^yellow;8000像素^white;作为补偿。研究程序完成后，标本可归还。" },
+  { "op": "replace", "path": "/completionText", "value": "样本保存状态良好，其分泌腺体结构完整。这对我们研究其化学防御机制具有显著价值。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "该项研究样本已由他人提供，感谢您的关注。" }
+] 

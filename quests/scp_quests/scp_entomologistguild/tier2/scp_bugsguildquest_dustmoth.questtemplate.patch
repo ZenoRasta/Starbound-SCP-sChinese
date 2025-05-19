@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;寻找尘蛾" },
+  { "op": "replace", "path": "/text", "value": "昆虫学家公会正在收集^orange;尘蛾^white;标本。这种神秘的昆虫生活在^cyan;干燥草原行星^white;上。你能为我们捕捉一只吗？完成任务将获得^yellow;6000像素^white;作为回报。研究记录后，这只昆虫你可以留作纪念。" },
+  { "op": "replace", "path": "/completionText", "value": "太感谢了！这只尘蛾的翅膀上闪烁着微妙的粉尘，真是美丽。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "已经有别人捕获并送来了吗？" }
+] 

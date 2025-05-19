@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;蕨类化石挖掘" },
+  { "op": "replace", "path": "/text", "value": "我们一直想做一个^orange;蕨类化石^white;的复制品。带来给我们就付你^yellow;7000 像素^white;！化石你自己留着，我们只要复制下。^cyan;（如果你把化石放进展示柜，任务就无法完成）^white;" },
+  { "op": "replace", "path": "/completionText", "value": "你找到化石啦！接下来就研究怎么让它复活……" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

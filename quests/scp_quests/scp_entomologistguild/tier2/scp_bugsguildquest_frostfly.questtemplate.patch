@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;寻找霜蝇" },
+  { "op": "replace", "path": "/text", "value": "昆虫学家公会需要^orange;霜蝇^white;标本用于研究。这种耐寒昆虫生活在^cyan;雪地行星^white;上。你能帮我们捕捉一只吗？完成后将获得^yellow;6000像素^white;的报酬。研究结束后，这只昆虫可以归你所有。" },
+  { "op": "replace", "path": "/completionText", "value": "太棒了！它的翅膀上有美丽的霜花图案，真是令人惊叹！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有别人已经先带回标本了吗？" }
+] 

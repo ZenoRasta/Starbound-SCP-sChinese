@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;传说鱼钓获" },
+  { "op": "replace", "path": "/text", "value": "传说中有比人还大的鱼，比辣子鸡还多汁！要是你能钓到一条传说鱼，把^orange;传说生鱼^white;带来，^yellow;15000 像素^white;就是你的。" },
+  { "op": "replace", "path": "/completionText", "value": "这鱼太夸张了，我这辈子头一次见！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

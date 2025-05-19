@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;蓝背虫的秘密" },
+  { "op": "replace", "path": "/text", "value": "公会正在研究^orange;蓝背虫^white;的生态习性。它们主要生活在^cyan;丛林行星^white;中。你能替我们捕捉一只吗？完成这项任务，将获得^yellow;4000像素^white;报酬。研究记录完成后，这只昆虫你可以带走。" },
+  { "op": "replace", "path": "/completionText", "value": "这只蓝背虫太完美了！它的色彩太迷人了，谢谢你的帮助。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "任务已经被别人完成了吗？" }
+] 

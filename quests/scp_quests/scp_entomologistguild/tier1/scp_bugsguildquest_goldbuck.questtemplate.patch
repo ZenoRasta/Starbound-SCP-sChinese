@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;寻找金背甲虫" },
+  { "op": "replace", "path": "/text", "value": "我们需要为昆虫目录添加^orange;金背甲虫^white;。这种昆虫主要栖息在^cyan;沙漠行星^white;。你能帮我们捕捉一只吗？成功的话将获得^yellow;4000像素^white;的奖励。完成记录后，这只昆虫可以归你所有。" },
+  { "op": "replace", "path": "/completionText", "value": "多么美丽的金色！非常感谢你的贡献。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "已经有别人送来标本了吗？" }
+] 

@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;捕捉冰尖虫" },
+  { "op": "replace", "path": "/text", "value": "我们想要研究^orange;冰尖虫^white;的耐寒特性。这种昆虫生活在^cyan;雪地行星^white;上。你能帮我们捕捉一只吗？成功完成将获得^yellow;6000像素^white;的报酬。研究完毕后，这只昆虫可以归你所有。" },
+  { "op": "replace", "path": "/completionText", "value": "看它那晶莹剔透的外壳！这种适应寒冷的能力太神奇了！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人已经完成这个任务了吗？" }
+] 

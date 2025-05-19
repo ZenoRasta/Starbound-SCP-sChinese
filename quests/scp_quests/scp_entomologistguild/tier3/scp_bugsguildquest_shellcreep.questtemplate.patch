@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;甲壳爬行者研究样本" },
+  { "op": "replace", "path": "/text", "value": "昆虫学分类研究部需要^orange;甲壳爬行者^white;的完整标本。此物种主要生存于^cyan;海洋行星^white;的沿岸地带。请协助采集一份样本，研究所将提供^yellow;8000像素^white;的报酬。数据采集后，标本可交由采集者保存。" },
+  { "op": "replace", "path": "/completionText", "value": "这是一份形态完整的标本，其外骨骼结构将为我们的分类研究提供重要参考数据。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "该标本需求已满足，感谢您的参与意愿。" }
+] 

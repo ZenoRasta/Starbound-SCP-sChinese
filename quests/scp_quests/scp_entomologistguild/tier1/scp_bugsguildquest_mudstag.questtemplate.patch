@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;寻找泥鹿虫" },
+  { "op": "replace", "path": "/text", "value": "我们需要为档案收集^orange;泥鹿虫^white;标本。这种有趣的昆虫常见于^cyan;沼泽行星^white;。你能为我们捕捉一只吗？成功的话会得到^yellow;4000像素^white;作为报酬。研究完毕后，这只昆虫可以由你保管。" },
+  { "op": "replace", "path": "/completionText", "value": "多谢你带来的标本！它的触角形态真是独特。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "已经有人先完成这个任务了吗？" }
+] 

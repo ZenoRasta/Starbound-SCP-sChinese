@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;烹饪超级辣火锅" },
+  { "op": "replace", "path": "/text", "value": "缺个厨师，需要准备^orange;20份超级辣火锅^white;。如果你来干我就给你双倍工资，^yellow;19000像素^white;。" },
+  { "op": "replace", "path": "/completionText", "value": "订单已送达，这玩意到底有多辣？" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "是有人已经先送餐了吗？" }
+] 

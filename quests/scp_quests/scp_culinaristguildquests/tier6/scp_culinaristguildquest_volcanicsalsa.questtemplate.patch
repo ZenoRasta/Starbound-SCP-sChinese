@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;火山酱" },
+  { "op": "replace", "path": "/text", "value": "厨房人手不足，急缺有人制作^orange;20份火山莎莎酱^white;。帮这个忙的话，给你双倍酬劳，^yellow;21000像素^white;哦，划算吧？" },
+  { "op": "replace", "path": "/completionText", "value": "酱料到了！看这红色，估计辣得够呛！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "草，已经有人送来了吗？" }
+] 

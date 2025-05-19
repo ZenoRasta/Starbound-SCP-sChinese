@@ -1,0 +1,3 @@
+[
+  { "op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "别把饭烧糊了啊！" }
+] 

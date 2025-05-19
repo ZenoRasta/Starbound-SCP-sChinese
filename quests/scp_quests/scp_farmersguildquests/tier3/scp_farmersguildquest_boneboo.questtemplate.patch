@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;骨竹速递" },
+  { "op": "replace", "path": "/text", "value": "快快快！^orange;40 根骨竹^white;，赶紧送来，双倍市场价——^yellow;12800 像素^white;！别磨蹭，抓紧！" },
+  { "op": "replace", "path": "/completionText", "value": "终于送到了！行吧，这是你的钱，快去快回。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先了，下次动作快点！" }
+] 

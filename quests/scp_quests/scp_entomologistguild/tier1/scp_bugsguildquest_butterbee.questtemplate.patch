@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;寻找奶油蜂" },
+  { "op": "replace", "path": "/text", "value": "昆虫学家公会需要^orange;奶油蜂^white;的标本用于研究。这种昆虫通常在^cyan;花园行星^white;上活动。你愿意帮我们捕捉一只吗？任务报酬是^yellow;4000像素^white;。研究结束后，这只昆虫将归还给你。" },
+  { "op": "replace", "path": "/completionText", "value": "太棒了！这只奶油蜂看起来非常健康！感谢你的帮助。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "已经有人先一步提交了吗？" }
+] 

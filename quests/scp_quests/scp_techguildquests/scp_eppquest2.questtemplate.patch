@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^orange;获取辐射环境防护背包" },
+  { "op": "replace", "path": "/text", "value": "我这还有一个^green;辐射EPP^white;，正愁没人要。和上一个EPP效果一样，戴上能免疫致命辐射。只要^yellow;8000像素^white;，便宜甩啦……" },
+  { "op": "replace", "path": "/completionText", "value": "给你啦。如果你还想买点别的，随时找我……" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先买走了吗？" }
+] 

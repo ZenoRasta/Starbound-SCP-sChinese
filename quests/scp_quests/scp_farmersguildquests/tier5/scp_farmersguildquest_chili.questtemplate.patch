@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;辣椒速递" },
+  { "op": "replace", "path": "/text", "value": "^orange;40 根辣椒^white;，辣得够味！双倍市场价——^yellow;16800 像素^white;，兄弟，敢不敢来一把火辣的？" },
+  { "op": "replace", "path": "/completionText", "value": "够辣！够爽！这是你的钱，江湖再见！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "被别人抢先了，辣椒都没了，下次快点！" }
+] 

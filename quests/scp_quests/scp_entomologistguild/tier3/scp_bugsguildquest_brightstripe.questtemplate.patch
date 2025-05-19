@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;亮纹虫形态学研究" },
+  { "op": "replace", "path": "/text", "value": "比较生物学研究所需要^orange;亮纹虫^white;标本用于色素分析。该物种主要栖息于^cyan;辐射行星^white;的特殊生态环境中。请协助采集一只完整标本，研究资助为^yellow;8000像素^white;。研究程序完成后，标本可依规返还。" },
+  { "op": "replace", "path": "/completionText", "value": "此标本保存完好，发光组织结构完整。其生物发光机制对我们的光学生物技术研究具有重要参考价值。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "所需研究标本已获取，感谢您对科学事业的支持。" }
+] 

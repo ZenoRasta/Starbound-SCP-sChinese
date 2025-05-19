@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;香辣羽冠" },
+  { "op": "replace", "path": "/text", "value": "厨房缺人啦，急需^orange;20 份辣味羽冠餐^white;救急！你要是能来，双倍薪水——^yellow;16600 像素^white;，绝对不亏！" },
+  { "op": "replace", "path": "/completionText", "value": "羽冠送到啦！这造型，厨师都想自拍一张！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "咦？已经有人送过来了？" }
+] 

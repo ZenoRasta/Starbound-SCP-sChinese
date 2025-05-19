@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;猎取肋排肉" },
+  { "op": "replace", "path": "/text", "value": "你看起来挺有潜力的猎人。去用狩猎武器收集^orange;10 份肋排肉^white;吧。要是成功了，^yellow;4000 像素^white;就是你的。" },
+  { "op": "replace", "path": "/completionText", "value": "干得漂亮！这是你的报酬。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

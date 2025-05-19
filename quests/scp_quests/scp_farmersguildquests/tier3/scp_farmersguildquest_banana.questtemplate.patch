@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;香蕉速递" },
+  { "op": "replace", "path": "/text", "value": "香蕉大促销啦！^orange;40 根香蕉^white;，只要你能送到，咱们直接双倍市场价——^yellow;9600 像素^white;！哥们，来不来一单？" },
+  { "op": "replace", "path": "/completionText", "value": "太棒了！客户都乐开花了，这是你的奖金，收好哈！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "哎，被别人抢先了，下次早点来啊！" }
+] 

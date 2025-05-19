@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;收集冷萃精华" },
+  { "op": "replace", "path": "/text", "value": "你能帮我收集^orange;30 份冷萃精华^white;吗？我会支付^yellow;12500 像素^white;。你可以试试养点农场动物……听说^cyan;Terramart^white;有卖^cyan;冰绒牛蛋^white;。" },
+  { "op": "replace", "path": "/completionText", "value": "这些可太有用了！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

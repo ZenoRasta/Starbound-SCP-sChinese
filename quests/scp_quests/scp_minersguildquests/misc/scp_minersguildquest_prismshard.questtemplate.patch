@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;棱镜碎片速递" },
+  { "op": "replace", "path": "/text", "value": "听说有种稀有宝石叫^pink;棱镜碎片^white;。要是你能找到^pink;40 个棱镜碎片^white;，我们就付你^yellow;10000 像素^white;。" },
+  { "op": "replace", "path": "/completionText", "value": "真亮啊！你知道这玩意其实叫棱光石吗？" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;蜂窝猪虫研究计划" },
+  { "op": "replace", "path": "/text", "value": "昆虫学高级研究组需要^orange;蜂窝猪虫^white;的完整标本。该物种主要栖息于^cyan;丛林行星^white;的深层区域。请采集一只成年个体，成功完成将获得^yellow;8000像素^white;的研究资助。数据提取后，标本将依照规定归还。" },
+  { "op": "replace", "path": "/completionText", "value": "标本状态符合研究要求，其社会构造腺体结构完好。这将为我们的群体行为研究提供关键数据。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "本次研究项目已获得足够样本，感谢您的支持。" }
+] 

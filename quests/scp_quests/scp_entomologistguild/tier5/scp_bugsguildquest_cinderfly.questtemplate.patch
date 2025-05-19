@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;余烬飞虫的奥秘" },
+  { "op": "replace", "path": "/text", "value": "亲爱的科研伙伴，我们的极端环境生物学团队对^orange;余烬飞虫^white;的生存机制充满兴趣。这种神奇的生物生活在^red;火山行星^white;的熔岩区。若你能采集一只完整标本，我们将提供^yellow;10000像素^white;的学术奖励。研究结束后，这位小小的余烬精灵将继续陪伴你。" },
+  { "op": "replace", "path": "/completionText", "value": "太神奇了！它体内的耐热蛋白结构独特，为我们揭示了生物耐热的新机制。这一发现对我们的高温生物学研究具有重要意义。感谢你为科学带来的这份火热！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "亲爱的朋友，很遗憾这项任务已由其他研究员完成。不过你的热情让我们充满希望，期待下次合作。" }
+] 

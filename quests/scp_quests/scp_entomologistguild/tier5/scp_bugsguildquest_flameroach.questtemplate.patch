@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;火焰蟑螂的生存之道" },
+  { "op": "replace", "path": "/text", "value": "亲爱的科学探索者，我们的极端环境生物学实验室对^orange;火焰蟑螂^white;的耐热机制极为关注。这种坚韧的生物生活在^red;岩浆行星^white;的熔岩边缘。若你能采集一只完整标本，我们将提供^yellow;10000像素^white;的研究奖励。研究结束后，这位小强者将继续陪伴你。" },
+  { "op": "replace", "path": "/completionText", "value": "不可思议！它的外骨骼能抵御极高温度，这一特性为我们的耐热材料研究提供了新思路。感谢你为科学带来的这份坚韧！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "亲爱的朋友，很遗憾这项任务已由其他研究员完成。不过你的热情让我们充满希望，期待下次合作。" }
+] 

@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;毒顶蘑菇速递" },
+  { "op": "replace", "path": "/text", "value": "^orange;40 颗毒顶蘑菇^white;，只有真正的勇士才敢送！双倍市场价——^yellow;16000 像素^white;，你敢来挑战吗？" },
+  { "op": "replace", "path": "/completionText", "value": "勇者无畏！这是你的荣耀与奖励！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "勇气不够，被别人捷足先登了。" }
+] 

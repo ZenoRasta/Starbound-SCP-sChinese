@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;捕捉绿尖虫" },
+  { "op": "replace", "path": "/text", "value": "我们需要为^orange;绿尖虫^white;进行编目。这种昆虫生活在^cyan;森林行星^white;上。你能帮我们捉一只来吗？完成后会有^yellow;4000像素^white;作为报酬。编目后，这只虫子你可以自己留着。" },
+  { "op": "replace", "path": "/completionText", "value": "这将成为我收藏中的精品。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "是有别人先完成了这个任务吗？" }
+] 

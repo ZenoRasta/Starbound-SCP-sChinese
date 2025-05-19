@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;铁锭速递" },
+  { "op": "replace", "path": "/text", "value": "我们需要有人帮忙收集^orange;40 根铁锭^white;。只要你能送来，我们愿意支付三倍市场价——^yellow;4800 像素^white;。有兴趣吗？" },
+  { "op": "replace", "path": "/completionText", "value": "干得漂亮！这是你的报酬。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

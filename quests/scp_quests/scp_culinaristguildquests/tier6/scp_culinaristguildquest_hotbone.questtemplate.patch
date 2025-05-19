@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;做个热骨头" },
+  { "op": "replace", "path": "/text", "value": "缺个厨师，需要准备^orange;20份热骨头餐^white;。来帮忙的话给你双倍工资，^yellow;18600像素^white;。" },
+  { "op": "replace", "path": "/completionText", "value": "订单到啦！看起来香喷喷的！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "啊？有人捷足先登了？" }
+] 

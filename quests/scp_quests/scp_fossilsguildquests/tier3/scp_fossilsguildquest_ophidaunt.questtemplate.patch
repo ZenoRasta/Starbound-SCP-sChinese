@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;蛇魔骨架挖掘" },
+  { "op": "replace", "path": "/text", "value": "我们想复制一具^orange;蛇魔^white;的骨架。如果你能找到^orange;蛇魔头骨^white;、^orange;蛇魔躯干^white;、^orange;蛇魔上尾^white;、^orange;蛇魔中尾^white;和^orange;蛇魔下尾^white;，带来就付你^yellow;21000 像素^white;！骨头你自己留着，我们只要复制下。^cyan;（如果你把这些骨头放进展示柜，任务就无法完成）^white;" },
+  { "op": "replace", "path": "/completionText", "value": "你全都找齐啦！这庞然大物真让人敬畏……" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

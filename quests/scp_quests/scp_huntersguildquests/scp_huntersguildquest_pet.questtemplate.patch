@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;猎取宠物" },
+  { "op": "replace", "path": "/text", "value": "我一直梦想有个狩猎伙伴，可惜自己一直没能抓到。^orange;你能帮我捕捉一只宠物吗？^white;如果你能做到，^yellow;5000 像素^white;就是你的！" },
+  { "op": "replace", "path": "/completionText", "value": "这只宠物真不错！这是我承诺的报酬。" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "有人抢先交付了吗？" }
+] 

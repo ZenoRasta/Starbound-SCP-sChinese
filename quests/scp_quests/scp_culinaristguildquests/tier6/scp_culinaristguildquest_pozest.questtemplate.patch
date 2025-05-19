@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;来杯宝泽特" },
+  { "op": "replace", "path": "/text", "value": "缺个厨师，要准备^orange;20杯宝泽特饮料^white;。你要是来帮忙，给你双份报酬，整整^yellow;33000像素^white;哦！" },
+  { "op": "replace", "path": "/completionText", "value": "饮料送到啦！看着就让人口渴！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "我去？别人已经送过来了？" }
+] 

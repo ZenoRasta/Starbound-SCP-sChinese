@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;珊瑚藤咖喱" },
+  { "op": "replace", "path": "/text", "value": "厨房人手告急，急需^orange;20 份珊瑚藤咖喱^white;。帮个忙吧，双倍工钱——^yellow;20600 像素^white;，美味等你来！" },
+  { "op": "replace", "path": "/completionText", "value": "太棒了！咖喱送到了！这香味，谁闻了都流口水！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "哦...难道已经有人送餐了？" }
+] 

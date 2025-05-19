@@ -1,0 +1,6 @@
+[
+  { "op": "replace", "path": "/title", "value": "^green;蛋射手速递" },
+  { "op": "replace", "path": "/text", "value": "要送 ^orange;40 个蛋射手^white;，听起来好像很好玩！双倍市场价——^yellow;9600 像素^white;，你能帮帮我吗？" },
+  { "op": "replace", "path": "/completionText", "value": "哇，谢谢你！蛋射手都到啦，这是你的奖励，开心！" },
+  { "op": "replace", "path": "/scriptConfig/failureText", "value": "呜呜，被别人抢先了，下次一定要更快！" }
+] 
