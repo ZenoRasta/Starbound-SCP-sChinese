@@ -20,7 +20,7 @@
 	"parameters" : {
 		"icon" : "/celestial/system/spacestation/scp_spacecityicon.png?scalenearest=1.5",
 		"displayName" : "???",
-		"description" : "贸易和造船的便利使这个居住地发展成了一座大城市。繁忙的商业活动带来了许多就业机会。",
+		"description" : "贸易和造船的便利使这个居民地发展成了一座大城市。繁忙的商业活动带来了许多就业机会。",
 	"bookmarkIcon" : "spacestation"
 	}
 }}
